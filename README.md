@@ -7,7 +7,6 @@ facebook.com, 1705098166536217, RESELLER, с3e20eee3f780d68
 facebook.com, 557420222703949, RESELLER, с3e20eee3f780d68   
 facebook.com, 1261137134714858, RESELLER, с3e20eee3f780d68  
 facebook.com, 1632377018, RESELLER, с3e20eee3f780d68  
-facebook.com, 557420222703949, RESELLER, с3e20eee3f780d68  
 
 #Mopub
 mopub.com, 9a2adbc4f785471da92f348a5585c3ae, DIRECT, 74b46c0ea83967ca
