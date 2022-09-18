@@ -1,8 +1,5 @@
 #Facebook Ad Network  
-facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68   
-facebook.com, 576910607249507, RESELLER, с3e20eee3f780d68   
-facebook.com, 589782102618462, RESELLER, с3e20eee3f780d68  
-facebook.com, 613722980270461, RESELLER, с3e20eee3f780d68
+facebook.com, 487404456726835, RESELLER, c3e20eee3f780d68  
 
 #Mopub
 mopub.com, 9a2adbc4f785471da92f348a5585c3ae, DIRECT, 74b46c0ea83967ca
